@@ -1,5 +1,3 @@
-# Project Repository Model
-This repository is just a model for students projects.
 
 ## Repository Structure
 
@@ -36,5 +34,19 @@ Here is the actual developed project. Usually it will be a Visual Studio Solutio
 - [ ] At least 10 tests
 
 
-# Setup Instructions
-TBD by students.
+## Application GUI
+
+# Main Window
+
+![main-window](https://github.com/MirunaModiga/SkyCast/assets/107638226/c4201639-4a1a-42e7-8c0e-d0db95656771)
+
+# Login Window
+
+![login-window](https://github.com/MirunaModiga/SkyCast/assets/107638226/be5e7fe8-cf53-4ac5-ab98-86f44d28dd89)
+
+# Weather Window
+
+![wetaher-window](https://github.com/MirunaModiga/SkyCast/assets/107638226/ccff2e4c-1517-4a44-965e-d9076c17dba8)
+
+
+
